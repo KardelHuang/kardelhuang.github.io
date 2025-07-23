@@ -2,7 +2,7 @@ title: 技術文件筆記
 description: 我的技術學習與紀錄
 baseurl: "" # 如果是根目錄就留空
 url: "https://kardelhuang.github.io"
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
