@@ -1,6 +1,6 @@
 ---
-title: Python Day 1 - 安裝環境
-parent: Learning
+title: Day 1 - 安裝環境
+parent: Python
 nav_order: 1
 ---
 
