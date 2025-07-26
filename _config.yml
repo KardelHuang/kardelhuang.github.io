@@ -1,5 +1,5 @@
-title: 技術文件筆記
-description: 我的技術學習與紀錄
+title: Kardel's Note
+description: 一個平凡的工程師，紀錄著自我學習的過程，還有生活中的點滴
 baseurl: "" # 如果是根目錄就留空
 url: "https://kardelhuang.github.io"
 remote_theme: pmarsceill/just-the-docs
